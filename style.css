@@ -80,3 +80,11 @@ svg {
 section {
   height: 100vh;
 }
+
+.images{
+  position: fixed;
+  width: 60%;
+  height: 60%;
+  bottom:30px; 
+  left:50px;
+}
